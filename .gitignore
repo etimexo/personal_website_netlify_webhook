@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 credentials.json
+# Local Netlify folder
+.netlify
